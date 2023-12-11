@@ -11,6 +11,14 @@ Pythonのインストール https://www.python.org/downloads/
 最新バージョンのインストールで良い<br>
 
 ```
+py -V
+```
+で何かバージョンが返ってきたらインストール完了<br>
+
+
+その後，以下コマンド<br>
+
+```
 pip install pycryptodome==3.15.0
 ```
 ```
