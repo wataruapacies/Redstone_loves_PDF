@@ -8,10 +8,12 @@ PDFの分割．結合ができる．
 ＜使い方＞<br>
 Pythonのインストール https://www.python.org/downloads/
 <br>
-最新バージョンのインストールで良い
-<br>
+最新バージョンのインストールで良い<br>
+
 ```
 pip install pycryptodome==3.15.0
+```
+```
 pip install PyPDF2==3.0.1
 ```
 
