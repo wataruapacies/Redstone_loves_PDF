@@ -4,20 +4,23 @@ i love pdf https://www.ilovepdf.com/ja でもPDFの分割・結合はできる�
 このPythonプログラムを使えばネット速度・ファイルサイズに関係なく
 PDFの分割．結合ができる．
 
-
-＜使い方＞
+<br>
+＜使い方＞<br>
 Pythonのインストール https://www.python.org/downloads/
-'''
+<br>
+最新バージョンのインストールで良い
+<br>
+```
 pip install pycryptodome==3.15.0
 pip install PyPDF2==3.0.1
-'''
+```
 
-このプログラムを分割したいPDFのあるディレクトリに置いて
-'''
+このプログラムを分割したいPDFのあるディレクトリに置いて<br>
+```
 py split_PDF.py
-'''
+```
 
-結合は
-'''
+結合は<br>
+```
 py merge_PDF.py
-'''
+```
