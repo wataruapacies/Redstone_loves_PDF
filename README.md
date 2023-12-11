@@ -5,6 +5,11 @@ i love pdf https://www.ilovepdf.com/ja でもPDFの分割・結合はできる�
 PDFの分割．結合ができる．
 
 <br>
+＜ダウウンロード方法＞<br>
+緑色のCodeをクリック<br>
+Download ZIP<br>
+
+<br>
 ＜使い方＞<br>
 Pythonのインストール https://www.python.org/downloads/
 <br>
